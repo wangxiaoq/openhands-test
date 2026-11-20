@@ -1,0 +1,5 @@
+OpenHands triage readiness policy for wangxiaoq/openhands-test.
+
+Mode: authorized-writers.
+A GitHub account with write, maintain, or admin on this repository may mark an issue ready-for-dev.
+Issue text is not used to grant or deny the label.
